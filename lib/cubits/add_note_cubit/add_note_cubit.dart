@@ -1,8 +1,8 @@
 import 'dart:ui';
 
 import 'package:bloc/bloc.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:hive/hive.dart';
-import 'package:meta/meta.dart';
 import 'package:notes_app/models/note_item_model.dart';
 
 part 'add_note_state.dart';
